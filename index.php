@@ -1,3 +1,3 @@
  <?php 
- echo "Currently connected to Pod: ".$_SERVER['SERVER_ADDR'] ;
+ echo "Welcome to QDS. Currently connected to Pod: ".$_SERVER['SERVER_ADDR'] ;
  ?>
